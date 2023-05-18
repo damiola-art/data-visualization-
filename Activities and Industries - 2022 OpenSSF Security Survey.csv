@@ -1,0 +1,637 @@
+Industry ,Activity 1,Activity 2
+Agriculture,NA,NA
+Agriculture,NA,NA
+Automotive,Added Intelligence,Software Component ID
+Automotive,Added Intelligence,Software Component ID
+Automotive,NA,NA
+Automotive,Added Intelligence,NA
+Automotive,NA,NA
+Automotive,NA,NA
+Automotive,NA,NA
+Automotive,NA,NA
+Automotive,Added Intelligence,NA
+Automotive,NA,NA
+Automotive,Added Intelligence,NA
+Automotive,Added Intelligence,Software Component ID
+Automotive,NA,NA
+Automotive,Added Intelligence,NA
+Automotive,Added Intelligence,NA
+Automotive,NA,NA
+Business Services,NA,NA
+Business Services,Added Intelligence,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,Added Intelligence,NA
+Business Services,Added Intelligence,Software Component ID
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,NA,NA
+Business Services,Added Intelligence,NA
+Business Services,Added Intelligence,NA
+Business Services,NA,NA
+Business Services,Added Intelligence,Software Component ID
+Business Services,NA,NA
+Business Services,Added Intelligence,NA
+Business Services,NA,NA
+Construction/Engineering,NA,Software Component ID
+Construction/Engineering,NA,NA
+Construction/Engineering,NA,NA
+Construction/Engineering,NA,NA
+Construction/Engineering,NA,NA
+Construction/Engineering,NA,NA
+Construction/Engineering,Added Intelligence,NA
+Construction/Engineering,Added Intelligence,NA
+Construction/Engineering,NA,NA
+Consumer Packaged Goods,Added Intelligence,NA
+Consumer Packaged Goods,NA,NA
+Consumer Packaged Goods,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,NA
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,Added Intelligence,NA
+Financial Services,NA,NA
+Financial Services,NA,NA
+Financial Services,Added Intelligence,Software Component ID
+Financial Services,NA,NA
+Financial Services,Added Intelligence,Software Component ID
+Govt State&Local,NA,NA
+Govt State&Local,NA,NA
+Govt State&Local,Added Intelligence,NA
+Govt State&Local,NA,NA
+Healthcare,Added Intelligence,NA
+Healthcare,NA,NA
+Healthcare,Added Intelligence,Software Component ID
+Healthcare,NA,NA
+Healthcare,NA,NA
+Healthcare,NA,NA
+Healthcare,NA,NA
+Healthcare,NA,NA
+Healthcare,Added Intelligence,NA
+Healthcare,NA,NA
+Healthcare,Added Intelligence,Software Component ID
+Healthcare,NA,NA
+Healthcare,NA,NA
+Healthcare,NA,NA
+Hospitality,NA,NA
+IT,Added Intelligence,NA
+IT,NA,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,Software Component ID
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,Software Component ID
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,Software Component ID
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,NA,Software Component ID
+IT,Added Intelligence,Software Component ID
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,Software Component ID
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,Added Intelligence,NA
+IT,NA,NA
+IT,NA,Software Component ID
+Life Sciences,NA,NA
+Life Sciences,Added Intelligence,NA
+Life Sciences,Added Intelligence,NA
+Life Sciences,Added Intelligence,NA
+Life Sciences,NA,NA
+Life Sciences,Added Intelligence,NA
+Life Sciences,NA,NA
+Life Sciences,Added Intelligence,NA
+Manufacturing,NA,NA
+Manufacturing,NA,NA
+Manufacturing,Added Intelligence,NA
+Manufacturing,NA,NA
+Manufacturing,NA,NA
+Manufacturing,Added Intelligence,Software Component ID
+Manufacturing,Added Intelligence,NA
+Manufacturing,NA,NA
+Manufacturing,NA,NA
+Manufacturing,NA,NA
+Manufacturing,NA,NA
+Manufacturing,Added Intelligence,NA
+Manufacturing,NA,NA
+Manufacturing,NA,Software Component ID
+Manufacturing,NA,NA
+Manufacturing,NA,NA
+Media,Added Intelligence,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,Added Intelligence,NA
+Media,Added Intelligence,Software Component ID
+Media,Added Intelligence,NA
+Media,Added Intelligence,Software Component ID
+Media,NA,NA
+Media,Added Intelligence,NA
+Media,NA,NA
+National Government,NA,Software Component ID
+National Government,Added Intelligence,NA
+National Government,NA,NA
+National Government,Added Intelligence,NA
+National Government,Added Intelligence,Software Component ID
+National Government,NA,NA
+National Government,NA,NA
+National Government,NA,NA
+National Government,Added Intelligence,NA
+National Government,Added Intelligence,NA
+National Government,NA,NA
+National Government,Added Intelligence,Software Component ID
+National Government,Added Intelligence,Software Component ID
+National Government,Added Intelligence,NA
+National Government,Added Intelligence,NA
+National Government,Added Intelligence,NA
+National Government,NA,NA
+National Government,Added Intelligence,NA
+National Government,NA,NA
+National Government,Added Intelligence,NA
+National Government,NA,NA
+Oil&Gas,NA,NA
+Oil&Gas,NA,NA
+Oil&Gas,Added Intelligence,NA
+Oil&Gas,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,Software Component ID
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,Software Component ID
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,NA,Software Component ID
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,Software Component ID
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Others,NA,NA
+Others,Added Intelligence,NA
+Others,NA,NA
+Retail,NA,NA
+Retail,NA,NA
+Retail,Added Intelligence,NA
+Retail,NA,NA
+Retail,NA,NA
+Retail,Added Intelligence,Software Component ID
+Retail,Added Intelligence,Software Component ID
+Retail,NA,NA
+Retail,Added Intelligence,NA
+Retail,NA,NA
+Retail,Added Intelligence,NA
+Retail,Added Intelligence,NA
+Retail,NA,NA
+Retail,NA,NA
+Retail,Added Intelligence,NA
+Retail,Added Intelligence,NA
+Retail,NA,NA
+Secondary Education,Added Intelligence,NA
+Secondary Education,Added Intelligence,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,Added Intelligence,Software Component ID
+Telecommunication,NA,Software Component ID
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,Software Component ID
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,Software Component ID
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Telecommunication,NA,NA
+Telecommunication,Added Intelligence,NA
+Telecommunication,NA,NA
+Transports&Logistics,Added Intelligence,NA
+Transports&Logistics,NA,NA
+Transports&Logistics,Added Intelligence,NA
+Transports&Logistics,NA,NA
+Transports&Logistics,NA,NA
+Transports&Logistics,Added Intelligence,Software Component ID
+Transports&Logistics,Added Intelligence,NA
+Transports&Logistics,Added Intelligence,NA
+Transports&Logistics,Added Intelligence,Software Component ID
+Transports&Logistics,Added Intelligence,Software Component ID
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,Added Intelligence,NA
+UNI Education,Added Intelligence,NA
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,Added Intelligence,Software Component ID
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,Added Intelligence,NA
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,NA,NA
+UNI Education,Added Intelligence,NA
+UNI Education,NA,NA
